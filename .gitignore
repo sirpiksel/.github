@@ -1,0 +1,15 @@
+*
+
+!.gitignore
+
+!README.md
+!CODE_OF_CONDUCT.md
+!SUPPORT.md
+!PULL_REQUEST_TEMPLATE.md
+
+!.github/
+!.github/**
+!AGENT_INSTRUCTIONS/
+!AGENT_INSTRUCTIONS/**
+!LICENSING/
+!LICENSING/**
