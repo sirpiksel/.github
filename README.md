@@ -1,6 +1,6 @@
 <div align="center">
 
-# `piksel_`s Account-Wide Repository Configuration
+# `piksel`s Account-Wide Repository Configuration
 
 This repository contains the defaults to my GitHub projects.
 
@@ -14,15 +14,14 @@ Issue/PR templates and policy documents placed here are automatically available 
 
 The repository is still being populated. The markdown files listed below will be added when the corresponding need arises:
 
-- **Contribution** – For now, the audience is limited to known collaborators, who receive the same instructions through other channels. Since there are no external contributors who would benefit, the same guidance can be provided through private documentation, making public versions of the following files redundant:
-  - `PULL_REQUEST_TEMPLATE.md`
+- **Contribution** – For now, the audience is limited to known collaborators, who receive the same instructions through other channels. Since there are no external contributors who would benefit, the same guidance can be provided through private documentation, making a public version of the following file redundant:
   - `CONTRIBUTING.md`
 
 - **Security** – Security policies are kept private for internal or privately‑hosted projects to reduce attack surface on tailored authenticated channels; when a repository becomes public, a comprehensive `SECURITY.md` will be added with reporting instructions, response expectations, responsible‑disclosure guidance, and compliance references.
 
 ## Issue Templates
 
-The [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) directory provides the default issue templates that GitHub offers in repositories without their own. Each template pre-fills the issue title, applies the labels listed below, and asks for the information needed to act on it.
+The [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) directory provides the default issue templates that GitHub offers in repositories without their own. Each template pre-fills the issue title, applies the labels listed below, and asks for the information needed to act on it. All templates follow the same structure: intent, evidence, expectations, and context. Each also includes a single AI-assistance disclosure checkbox.
 
 | Template                | Use for                                                             | Labels                              |
 | ----------------------- | ------------------------------------------------------------------- | ----------------------------------- |

@@ -6,39 +6,46 @@ labels: "i: enhancement, i: needs triage"
 assignees: ""
 ---
 
-<!-- Use this template to propose a small, focused feature or enhancement to the repository or account-wide defaults. Keep proposals actionable and scoped for quick evaluation. -->
+<!-- Search existing issues before opening a new one. -->
 
-### Summary
+## Summary
 
-<!-- One-line summary of the requested feature. -->
+<!-- One-line description of the request. -->
 
-### Motivation
+## Problem / motivation
 
-<!-- Why is this feature needed? What problem does it solve or what benefit does it provide? -->
+<!-- What problem does this solve? Who is affected, and how do you handle it today? -->
 
-### Proposal
+## Concrete use case
 
-<!-- Describe the change in enough detail to evaluate. Include desired behavior, UX, API, or config changes. -->
+<!-- Describe one real scenario. Include inputs, outputs, commands, or links. -->
 
-### Alternatives considered
+## Proposal
 
-<!-- Optional — other approaches you evaluated and why they were rejected. -->
+<!-- What should change? Include desired behaviour and scope. What should this not do? -->
 
-### Implementation notes (optional)
+## Alternatives considered
 
-<!-- Possible files, workflow changes, or minimal patch example to implement this. -->
+<!-- What have you tried or considered, and why did you reject it? -->
 
-### Impact
+## Acceptance criteria
 
-<!-- Describe expected scope: low/medium/high effort and any migration or compatibility concerns. -->
+<!-- Concrete, testable conditions. Add at least one example input/output. -->
 
-### Acceptance criteria
+- [ ] <!-- Criterion 1 -->
+- [ ] <!-- Criterion 2 -->
 
-<!-- Concrete, testable conditions that must be true for this request to be considered complete. -->
+## Impact
 
-- [ ] Criterion 1
-- [ ] Criterion 2
+<!-- Who benefits, and what is the expected effort (low/medium/high) and compatibility impact? -->
 
-### Additional context (optional)
+## Additional context
 
 <!-- Links, mockups, related issues, or notes. -->
+
+## Checklist
+
+- [ ] I searched existing issues and this is not a duplicate.
+- [ ] I described a concrete use case, not only an abstract idea.
+- [ ] AI assistance was used to prepare this submission.
+- [ ] I have read this submission, can stand behind it, and agree to follow the project's Code of Conduct.

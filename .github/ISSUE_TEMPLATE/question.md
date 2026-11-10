@@ -6,18 +6,35 @@ labels: "i: question, i: needs triage"
 assignees: ""
 ---
 
-### What I wanted to do
+<!-- Search existing issues and the README before asking. -->
 
-<!-- Describe what you were trying to do or what prompted the question. -->
+## What I was trying to do
 
-### What I expected
+<!-- Describe the task or decision that prompted the question. -->
 
-<!-- Describe what you expected to happen or what decision/behavior you were looking for. -->
+## What I already tried
 
-### What happened instead
+<!-- List the docs, commands, or searches you tried and what happened. -->
 
-<!-- Describe the actual behavior, output, or gap that prompted this question. -->
+## What happened
 
-### Suggested resolution
+<!-- Paste the exact output, error, or gap. Link the relevant file or page if possible. -->
 
-<!-- Optional — if you have a preferred answer or solution, describe it here. -->
+## What I expected
+
+<!-- What did you expect to happen, and what answer or decision are you looking for? -->
+
+## Context
+
+<!-- Repository, branch, configuration, versions, recent changes, or links that help answer the question. -->
+
+## Additional context
+
+<!-- Screenshots, logs, related issues, or anything else that helps. Redact secrets. -->
+
+## Checklist
+
+- [ ] I searched existing issues and the README.
+- [ ] I included the exact output or a link to the relevant file/page.
+- [ ] AI assistance was used to prepare this submission.
+- [ ] I have read this submission, can stand behind it, and agree to follow the project's Code of Conduct.

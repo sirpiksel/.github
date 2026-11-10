@@ -1,42 +1,56 @@
 ---
 name: "\U0001F41B Bug Report"
-about: "Report a bug, unexpected behaviour, or reproducible error"
+about: "Report a reproducible bug or unexpected behaviour"
 title: "[Bug] "
 labels: "i: bug, i: needs triage"
 assignees: ""
 ---
 
-<!-- Use this template to report bugs or unexpected behavior in the repository or account-wide defaults. Keep reports focused and reproducible. -->
+<!-- Search existing issues before opening a new one. -->
 
-### Summary
+## Summary
 
-<!-- One-line summary of the bug. -->
+<!-- One-line description of the bug. -->
 
-### Steps to reproduce
+## Steps to reproduce
 
-1. <!-- Step 1: what you did -->
-2. <!-- Step 2: what you did next -->
-3. <!-- Step 3: any additional steps -->
+<!-- Give the smallest command or click path that reproduces the problem. -->
 
-### Expected behaviour
+1.
+2.
+3.
 
-<!-- What you expected to happen. -->
+## Expected behaviour
 
-### Actual behaviour
+<!-- What should happen? -->
 
-<!-- What actually happened, including error messages, stack traces, or incorrect output. Paste logs or screenshots if helpful. -->
+## Actual behaviour
 
-### Environment
+<!-- What happens instead? Paste the exact error text or log excerpt, and link the relevant file or page if possible. -->
 
-<!-- Provide context about where the bug occurred. Keep it concise. -->
+## Environment
 
-- OS / Browser: <!-- e.g., macOS, Windows 11, ... -->
-- Tooling / versions: <!-- e.g., Firefox 147, Microsoft Edge 144, Google Chrome 135 -->
+<!-- Include the details needed to reproduce your setup. -->
 
-### Troubleshooting attempted
+- OS / browser:
+- GitHub plan / repository visibility:
+- Relevant tooling / versions:
 
-<!-- What you already tried to resolve or diagnose the issue. -->
+## What I already tried
 
-### Suggested fix (optional)
+<!-- List at least one thing you tried and what happened. -->
 
-<!-- If you have an idea for a fix or preferred behavior, describe it briefly. -->
+## Frequency
+
+<!-- Always, sometimes, or once? Did this work before? -->
+
+## Additional context
+
+<!-- Screenshots, logs, links, related issues, or anything else that helps. Redact secrets. -->
+
+## Checklist
+
+- [ ] I searched existing issues and this is not a duplicate.
+- [ ] I can reproduce this with the steps above.
+- [ ] AI assistance was used to prepare this submission.
+- [ ] I have read this submission, can stand behind it, and agree to follow the project's Code of Conduct.
