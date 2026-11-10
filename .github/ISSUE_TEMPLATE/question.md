@@ -12,7 +12,7 @@ assignees: ""
 
 <!-- Describe the task or decision that prompted the question. -->
 
-## What I already tried
+## What I already tried (optional)
 
 <!-- List the docs, commands, or searches you tried and what happened. -->
 
@@ -24,17 +24,16 @@ assignees: ""
 
 <!-- What did you expect to happen, and what answer or decision are you looking for? -->
 
-## Context
+## Context (optional)
 
-<!-- Repository, branch, configuration, versions, recent changes, or links that help answer the question. -->
-
-## Additional context
-
-<!-- Screenshots, logs, related issues, or anything else that helps. Redact secrets. -->
+<!--
+Repository, branch, configuration, versions, recent changes, or links that help answer the question.
+Screenshots, logs, related issues, or anything else that helps. Redact secrets.
+-->
 
 ## Checklist
 
-- [ ] I searched existing issues and the README.
+- [ ] I searched existing issues and the README. (not a requirement)
 - [ ] I included the exact output or a link to the relevant file/page.
 - [ ] AI assistance was used to prepare this submission.
 - [ ] I have read this submission, can stand behind it, and agree to follow the project's Code of Conduct.

@@ -39,7 +39,7 @@ assignees: ""
 
 <!-- Who benefits, and what is the expected effort (low/medium/high) and compatibility impact? -->
 
-## Additional context
+## Additional context (optional)
 
 <!-- Links, mockups, related issues, or notes. -->
 
